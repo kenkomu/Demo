@@ -43,9 +43,9 @@
 ## :fire: Github Stats
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kenkomu&show_icons=true&locale=en&theme=tokyonight" alt="kenkomu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kenkomu&show_icons=true&locale=en&theme=tokyonight" alt="kenkomu" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkomu&&theme=tokyonight" alt="kenkomu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkomu&&theme=tokyonight" alt="kenkomu" /></p>
 
 
 <!-- Github Stats: END -->
