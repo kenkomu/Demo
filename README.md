@@ -6,3 +6,11 @@
 </p>
 
 <!-- Animation Typing: END -->
+
+<!-- Profile Views -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kenkomu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- Profile Views: END -->
