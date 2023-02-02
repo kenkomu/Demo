@@ -40,12 +40,20 @@
 <!-- Github Stats -->
 
 
-## :fire: Github Stats
+### :octocat: My stats
+  <table>
+
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=kenkomu&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkomu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  </tr>   
+</table>
+
+<table>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kenkomu&show_icons=true&locale=en&theme=tokyonight" alt="kenkomu" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkomu&&theme=tokyonight" alt="kenkomu" /></p>
-
-
-<!-- Github Stats: END -->
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenkomu&langs_count=10&layout=compact"/></td>
+  </tr>
+</table>
