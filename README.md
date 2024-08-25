@@ -2,7 +2,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Kenneth+Komu.;I'm+a+Full-stack+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Kenneth+Komu.;I'm+a+Rust-Developer;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -19,12 +19,10 @@
 
 <ul>
   <li>✨ I’m Kenneth Komu </li>
-  
-  <li>👨‍💻 I work consistently to write and improve scalable content for brands and companies</li>
-  
+    
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
   
-  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
+  <li>💬 I have exerpt experience in building Rust applications and blockchain applications</li>
   <!-- About me section: END -->
 
 <!-- Conecct section -->
