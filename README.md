@@ -44,18 +44,17 @@
   <tr>
 
 
-      <td>
+      
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenkomu)](https://github.com/kenkomu/github-readme-stats)
 
-</td>
 
 
 
 
 
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkomu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+   ![kenkomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkomu&show_icons=true&theme=radical)
   
   </tr>   
 </table>
